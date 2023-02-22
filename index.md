@@ -11,19 +11,6 @@ My future goals towards Physical Oceanography and Academia are focused on pedago
 # Curriculum Vitae
 [View](./assets/Igor_s_CV.pdf)
 
-
-# Publications
-
-
-**Uchoa, I.**, Simoes-Sousa, I. T., & da Silveira, I. C. (2023). The Brazil Current mesoscale eddies: Altimetry-based characterization and tracking. Deep Sea Research Part I: Oceanographic Research, 192.
-
-Silveira, I. C. A., Napolitano, D. C., & **Farias, I. U.** (2020). Water masses and oceanic circulation of the Brazilian Continental Margin and adjacent abyssal plain. Brazilian Deep-Sea Biodiversity, 7-36.
-
-Bonecker, A. C. T., Katsuragawa, M., de Castro, M. S., Namiki, C., de Lourdes Zani‐Teixeira, M., **Farias, I. U.**, & Silveira, I. C. A. D. (2019). Seasonal variability of ichthyoneuston assemblage on the continental shelf and slope of the Southwest Atlantic Ocean, Brazil (20–23 S). Journal of Applied Ichthyology, 35(3), 655-671.
-
-
-
-
 # Get in touch
 **Email:** iufarias@umd.edu -- 
 **Github:** [igoruchoa](https://github.com/igoruchoa) -- 
