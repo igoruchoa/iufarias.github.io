@@ -6,8 +6,6 @@ I am a Ph.D. student in the Atmospheric and Oceanic Sciences department at the U
 
 For my personal interests, I enjoy learning new languages, playing video games, and illustrating. 
 
-My future goals towards Physical Oceanography and Academia are focused on pedagogically improving Geophysical Fluid Dynamics learning.
-
 
 # Publications
 
