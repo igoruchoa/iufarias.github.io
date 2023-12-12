@@ -18,10 +18,10 @@ Silveira, I. C. A., Napolitano, D. C., & **Farias, I. U.** (2020). Water masses 
 
 Bonecker, A. C. T., Katsuragawa, M., de Castro, M. S., Namiki, C., de Lourdes Zani‐Teixeira, M., **Farias, I. U.**, & Silveira, I. C. A. D. (2019). Seasonal variability of ichthyoneuston assemblage on the continental shelf and slope of the Southwest Atlantic Ocean, Brazil (20–23 S). Journal of Applied Ichthyology, 35(3), 655-671.
 
-# More
-**CV:** [EN](./assets/Igor_s_CV.pdf)
+
 
 # Get in touch
+[**Curriculum Vitae**](./assets/Igor_s_CV.pdf)
 **Email:** iufarias@umd.edu -- 
 **Github:** [igoruchoa](https://github.com/igoruchoa) -- 
 **[LinkedIn](https://www.linkedin.com/in/igoruf/)**
