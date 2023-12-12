@@ -1,4 +1,4 @@
-<img src="assets/igoruf_photo.jpeg" alt="Igors Headshot"/>
+<img src="assets/igoruf_photo.jpeg" alt="Igors Headshot",width="200"/>
 
 # About Me
 
