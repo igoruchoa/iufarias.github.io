@@ -23,7 +23,7 @@ eddy energy in a coupled model](./assets/Ocean_Lunch_Seminar_.pdf)
 
 
 # Get in touch
-[**Google Scholar **](https://scholar.google.com/citations?user=d-DszkwAAAAJ&hl=en)
+**[Google Scholar](https://scholar.google.com/citations?user=d-DszkwAAAAJ&hl=en)**
 
 [**Curriculum Vitae**](./assets/Igor_s_CV.pdf)
 
