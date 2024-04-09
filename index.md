@@ -9,6 +9,8 @@ For my personal interests, I enjoy learning new languages, playing video games, 
 
 # Publications
 
+**Uchoa, I.**, Wenegrat, J. O., Renault, L. (Submitted). Sink of eddy energy by submesoscale sea surface temperature variability in a coupled regional model. **[preprint](https://eartharxiv.org/repository/view/6872/)**
+
 **Uchoa, I.**, Simoes-Sousa, I. T., & da Silveira, I. C. (2023). The Brazil Current mesoscale eddies: Altimetry-based characterization and tracking. Deep Sea Research Part I: Oceanographic Research, 192.
 
 Silveira, I. C. A., Napolitano, D. C., & **Farias, I. U.** (2020). Water masses and oceanic circulation of the Brazilian Continental Margin and adjacent abyssal plain. Brazilian Deep-Sea Biodiversity, 7-36.
